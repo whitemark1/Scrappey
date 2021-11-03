@@ -1,4 +1,4 @@
-# Scrapper
+# Scrappey
 A web scrapping tool by WhiteMark.I am not responsible for what you do with this tool.Only for education
 A tool by WHITEMARK **WORKING WITH TERMUX AND LINUX**
 # Installing on Any Linux platform
@@ -13,7 +13,7 @@ A tool by WHITEMARK **WORKING WITH TERMUX AND LINUX**
 **Step 2**  
 
 
-    cd Scrapper
+    cd Scrappey
     
 **Step 3**
     
@@ -21,7 +21,7 @@ A tool by WHITEMARK **WORKING WITH TERMUX AND LINUX**
   
 **Step 4**
     
-    python3 scrapper.py
+    python3 scrappey.py
     
     
 **Now watch this video**  
@@ -53,7 +53,7 @@ A tool by WHITEMARK **WORKING WITH TERMUX AND LINUX**
 **Step 6**  
 
 
-    cd Scrapper
+    cd Scrappey
     
 **Step 7**
     
